@@ -52,5 +52,5 @@ Follow these steps to set up the project:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/node-express-mysql-template.git
-   cd node-express-mysql-template
+   git clone https://github.com/BRavan1407/create-backend-boilerplate.git
+   
