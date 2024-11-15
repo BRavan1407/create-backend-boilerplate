@@ -7,12 +7,12 @@ A project template for building REST APIs using **Node.js**, **Express**, and **
 - [Overview](#overview)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
+<!-- - [Usage](#usage)
 - [Folder Structure](#folder-structure)
 - [Environment Variables](#environment-variables)
 - [API Endpoints](#api-endpoints)
 - [Contributing](#contributing)
-- [License](#license)
+- [License](#license) -->
 
 ---
 
@@ -49,8 +49,11 @@ Follow these steps to set up the project:
 
 ### Steps
 
-1. **Clone the Repository**
+1. **Run below command to install package globally**
 
    ```bash
-   git clone https://github.com/BRavan1407/create-backend-boilerplate.git
-   
+   npm install -g create-backend-boilerplate
+1. **Now run below command anywhere you want to create your backend project**
+
+   ```bash
+   create-backend-boilerplate "Your-project-name"
