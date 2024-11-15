@@ -1,6 +1,6 @@
 {
   "name": "create-backend-boilerplate",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A boilerplate creater for backend.It includes node js, express js, mySql, and with latest ES6 mudule syntax.",
   "type": "module",
   "main": "index.js",
