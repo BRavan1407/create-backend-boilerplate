@@ -1,0 +1,17 @@
+{
+  "name": "create-backend-boilerplate",
+  "version": "1.0.0",
+  "description": "A boilerplate creater for backend.It includes node js, express js, mySql, and with latest ES6 mudule syntax.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodeJs",
+    "expres",
+    "mysql",
+    "es6"
+  ],
+  "author": "PruthviRaj Upadhyay",
+  "license": "ISC"
+}
