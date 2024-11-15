@@ -17,7 +17,7 @@ try {
   console.log(`🚀 Creating a new project: ${projectName}...`);
 
   // Clone the GitHub repository (replace with your actual repo URL)
-  execSync(`git clone https://github.com/BRavan1407/create-backend-boilerplate.git ${projectPath}`, { stdio: 'inherit' });
+  execSync(`git clone https://github.com/BRavan1407/create-backend-boilerplate.git "${projectPath}"`, { stdio: 'inherit' });
 
   // Navigate into the new project directory
   process.chdir(projectPath);
